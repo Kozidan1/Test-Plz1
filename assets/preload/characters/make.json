@@ -1,0 +1,38 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "say",
+			"loop": false,
+			"name": "Say"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ill make",
+	"position": [
+		70,
+		-180
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
